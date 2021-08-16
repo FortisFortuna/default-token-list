@@ -206,5 +206,13 @@
 		"name": "Frax",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xeB6C08ccB4421b6088e581ce04fcFBed15893aC3/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x775d7816afbef935ea9c21a3ac9972f269a39004",
+		"symbol": "FXS",
+		"name": "Frax Share",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x775d7816afbef935ea9c21a3ac9972f269a39004/logo.png"
 	}
 ]
